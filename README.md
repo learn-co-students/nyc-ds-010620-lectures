@@ -45,6 +45,8 @@ git merge upstream/master -m 'what you updated'
 git push
 ```
 
+7. Now duplicate the jupyter notebook that you'd like to work with and run any cells/make any changes in the new notebook to avoid any future merge conflicts.
+
 # If you only want to save your notes locally
 
 ## Clone down this repository.
@@ -58,3 +60,5 @@ git status
 ```
 git pull origin master
 ```
+
+3. Now duplicate the jupyter notebook that you'd like to work with and run any cells/make any changes in the new notebook to avoid any future merge conflicts.
